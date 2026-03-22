@@ -1,5 +1,10 @@
 {
-  "latest_version": "v1.0.2",
-  "full_url": "https://github.com/snflkd/MonkeyfarmMC/releases/download/v1.0.2/Client_OneClick_Monkeyfarm_v1.0.2.zip",
-  "patches": {}
+  "latest_version": "v1.0.3",
+  "full_url": "https://github.com/snflkd/MonkeyfarmMC/releases/download/v1.0.3/Client_OneClick_Monkeyfarm_v1.0.3.zip",
+  "patches": {
+    "v1.0.2": {
+      "to": "v1.0.3",
+      "url": "https://github.com/snflkd/MonkeyfarmMC/releases/download/v1.0.3/patch_v1.0.2_to_v1.0.3.zip"
+    }
+  }
 }
